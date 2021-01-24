@@ -13,7 +13,7 @@ When a user enters a hashtag in the search box (e.g. fridayfeeling) and clicks t
 </p>
 
 <p align = "center">
-<img src = "https://github.com/rojinnew/pink_ribbon/blob/master/screen.png">
+<img src = "https://github.com/rojinnew/pink_ribbon/blob/master/screen1.png">
 </p>
 
 
