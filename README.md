@@ -24,12 +24,17 @@ The data is obtained from Breast Cancer Surveillance Consortium (BCSC) website. 
 pip install virtualenv
 
 virtualenv flask-app-venv 
+
 flask-app-venv/Scripts/activate.bat
+
 source flask-app-venv/bin/activate
 
 pip install Flask
+
 pip install joblib
+
 pip install sklearn
+
 pip install numpy
 
 python app.py
