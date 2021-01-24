@@ -8,10 +8,6 @@ Breast cancer is the most common cancer in women. About 90% of breast cancer pat
 
 Pink Ribbon is a tool for estimating the chance of developing breast cancer. Using this tool, a user can enter some information including age, weight, height, history of breast cancer in 1st degree relative, age of a user at the first birth or nulliparity, menopausal status, history of previous breast biopsy, and history of using hormone replacement therapy. Then, the app will return the chance of developing breast cancer. Upon returning the result, the tool also provides additional insights about breast cancer from the dataset.
 
-<p align = "justify">
-When a user enters a hashtag in the search box (e.g. fridayfeeling) and clicks the search icon, the app fetches the most recent tweets (in this case, the last 50000 tweets) and creates:
-</p>
-
 <p align = "center">
 <img src = "https://github.com/rojinnew/pink_ribbon/blob/master/screen1.png">
 </p>
