@@ -13,7 +13,7 @@ When a user enters a hashtag in the search box (e.g. fridayfeeling) and clicks t
 </p>
 
 <p align = "center">
-<img src = "https://github.com/rojinnew/tweet_analyzer/blob/master/screen.png">
+<img src = "https://github.com/rojinnew/pink_ribbon/blob/master/screen.png">
 </p>
 
 
@@ -39,6 +39,4 @@ python app.py
 https://www.bcsc-research.org/
 
 https://d3js.org/
-
-
 
