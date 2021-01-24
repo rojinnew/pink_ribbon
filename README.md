@@ -39,7 +39,7 @@ pip install numpy
 
 python app.py
 
-### Refrences 
+### References 
 
 https://www.bcsc-research.org/
 
