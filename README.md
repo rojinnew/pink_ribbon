@@ -1,5 +1,6 @@
 ### Inspiration
 [Yale Healthcare Hackathon 2021]
+
 Breast cancer is the most common cancer in women. About 90% of breast cancer patients live for at least 5 years after the cancer is diagnosed. When the breast cancer is detected early, the chance of survival is much higher. Beginning at the age of 40, breast cancer screening every one or two years is one of the most recommended preventive solutions for women. However, there are a large population of women that does not have access to such services despite having a high chance of developing breast cancer. Risk scoring for breast cancer that can identify individuals with high risk of developing chronic condition might be a good way to encourage individuals to seek professional help on time. The tool is easy and cost-effective to use. 
 
 
